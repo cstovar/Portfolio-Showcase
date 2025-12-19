@@ -39,8 +39,10 @@ Please visit the respective organization link for more details about each projec
 - **rootly-waf** – WAF configuration
 
 ## 🧩 SkillTrade – Microservices Marketplace
-**Organization:** Ornitorrinco  
-**Link:** https://github.com/p1-SwEng2-2025i-Ornitorrinco **More details about the project here**
+**Organization:** Ornitorrinco
+
+**Link:** https://github.com/p1-SwEng2-2025i-Ornitorrinco
+
 **Tech:** FastAPI, MongoDB, Vercel, Cloud deployment,  
 
 ### ⚙️ Backends & Services
