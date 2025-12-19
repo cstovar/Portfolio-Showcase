@@ -83,4 +83,67 @@ Please visit the respective organization link for more details about each projec
 - **HelloWorld**  
   Introductory Android app written in Java, demonstrating basic project setup and UI structure.
 
+## 🤖 FacialRecognitionCNN – Facial Recognition with CNN
+
+**Repository:** FacialRecognitionCNN  
+**Link:** https://github.com/cstovar/FacialRecognitionCNN
+
+This project implements a **Facial Recognition system using Convolutional Neural Networks (CNNs)**. It focuses on computer vision techniques to detect and recognize faces from images or video streams. The model is trained and evaluated using a dataset of labeled faces and optimized for accuracy and performance.
+
+### 🔍 Key Features
+
+- 📸 **Face detection and recognition** using CNN architectures
+- ⚙️ **Preprocessing** with image normalization and augmentation
+- 🧠 Model training with TensorFlow / Keras
+- 🧪 Evaluation with confusion matrices and accuracy metrics
+- 🖥️ Simple interface for inference on new images
+
+This project demonstrates knowledge in:
+- Deep learning and neural network design
+- Data preprocessing for computer vision
+- Model training, evaluation, and deployment
+
+## 🛡️ discreteIIProject – Secure Chat with RSA Encryption
+
+**Repository:** discreteIIProject  
+**Link:** https://github.com/cstovar/discreteIIProject
+
+This project implements a **simple chat system in Python** that uses **RSA encryption** to secure messages between a client and a server. It demonstrates foundational concepts in **cryptography** and **network communication**.
+
+### 🔍 Key Features
+
+- 🔐 **RSA encryption** for secure message exchange
+- 💬 Basic client-server chat interaction
+- 🖥️ Modular Python implementation with separate client and server scripts
+- 📄 Licensed under GPL-3.0
+
+This project highlights skills in:
+- Cryptographic algorithms and key management  
+- Python networking (socket programming)  
+- Secure software practices
+
+## 🗺️ CurvasDeNivel – Contour Lines & Point Cloud Generation
+
+**Repository:** CurvasDeNivel  
+**Link:** https://github.com/cstovar/CurvasDeNivel
+
+This project focuses on generating **contour lines (curvas de nivel)** and, most importantly, producing a **point cloud** from elevation data that can be **exported and directly inserted into AutoCAD** for further topographic analysis and design.
+
+The workflow enables the transformation of terrain data into a CAD-compatible format, bridging **computational processing and engineering design tools**.
+
+### 🔍 Key Features
+
+- 📍 **Point cloud generation** from elevation or surface data
+- 🗺️ Extraction of **contour lines** from terrain models
+- 📐 Output formats suitable for **AutoCAD integration**
+- 🧮 Spatial algorithms for terrain processing (e.g., contour extraction)
+- 📊 Visualization of elevation data and generated geometry
+
+This project demonstrates skills in:
+- Geospatial data processing and terrain modeling  
+- Conversion of analytical results into **CAD-ready artifacts**  
+- Computational geometry and spatial algorithms  
+- Practical integration between **C++-based analysis and AutoCAD**
+
+
 
