@@ -3,7 +3,7 @@
 This repository showcases selected projects I’ve worked on, developed both
 individually and within GitHub organizations as part of academic and collaborative work.
 
-Please visit the respective organization link for more details about each project
+_Please visit the respective organization link for more details about each project_
 
 ## 🌱 Rootly – Distributed Agricultural Monitoring Platform
 **Organization:** swarch-2f-rootly
