@@ -7,7 +7,9 @@ within GitHub organizations as part of academic and collaborative work.
 
 ## 🌱 Rootly – Distributed Agricultural Monitoring Platform
 **Organization:** swarch-2f-rootly
+
 **Link:** https://github.com/swarch-2f-rootly/2f/tree/main/Prototype_4 **More details about the project here**
+
 **Tech:** FastAPI, GO, PostgreSQL, InfluxDB, Docker, IoT, GraphQL  
 
 ### 🧠 Frontend & Mobile
