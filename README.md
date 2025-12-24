@@ -6,12 +6,10 @@ individually and within GitHub organizations as part of academic and collaborati
 _Please visit the respective organization link for more details about each project_
 
 ## 🌱 Rootly – Distributed Agricultural Monitoring Platform
-**Organization:** swarch-2f-rootly
+**Organization:** [swarch-2f-rootly](https://github.com/swarch-2f-rootly )
 
 Rootly is a distributed, cloud-native platform for agricultural monitoring,
 designed using microservices architecture and IoT data ingestion pipelines.
-
-**Link:** https://github.com/swarch-2f-rootly 
 
 **Tech:** FastAPI, GO, PostgreSQL, InfluxDB, Docker, IoT, GraphQL  
 
@@ -43,9 +41,9 @@ designed using microservices architecture and IoT data ingestion pipelines.
 - **rootly-waf** – WAF configuration
 
 ## 🧩 SkillTrade – Microservices Marketplace
-**Organization:** Ornitorrinco
+**Organization:** [Ornitorrinco](https://github.com/p1-SwEng2-2025i-Ornitorrinco)
 
-**Link:** https://github.com/p1-SwEng2-2025i-Ornitorrinco
+SkillTrade is a community marketplace for exchanging services using an internal digital currency and a reputation system that keeps trades fair and accountable.
 
 **Tech:** FastAPI, MongoDB, Vercel, Cloud deployment
 
@@ -60,11 +58,10 @@ designed using microservices architecture and IoT data ingestion pipelines.
  
 ## 📱 MobileAppsDevelopment2025II – Android Development
 
-**Organization:** MobileAppsDevelopment2025II  
+**Organization:** [MobileAppsDevelopment2025II](https://github.com/orgs/MobileAppsDevelopment2025II/)  
 
 These projects were developed as part of an academic course focused on modern Android development practices.
 
-**Link:** https://github.com/orgs/MobileAppsDevelopment2025II/
 
 ### 🔍 Featured Repositories
 
@@ -91,8 +88,7 @@ These projects were developed as part of an academic course focused on modern An
 
 ## 🤖 FacialRecognitionCNN – Facial Recognition with CNN
 
-**Repository:** FacialRecognitionCNN  
-**Link:** https://github.com/cstovar/FacialRecognitionCNN
+**Repository:** [FacialRecognitionCNN](https://github.com/cstovar/FacialRecognitionCNN) 
 
 This project implements a **Facial Recognition system using Convolutional Neural Networks (CNNs)**. It focuses on computer vision techniques to detect and recognize faces from images or video streams. The model is trained and evaluated using a dataset of labeled faces and optimized for accuracy and performance.
 
@@ -111,8 +107,7 @@ This project demonstrates knowledge in:
 
 ## 🛡️ discreteIIProject – Secure Chat with RSA Encryption
 
-**Repository:** discreteIIProject  
-**Link:** https://github.com/cstovar/discreteIIProject
+**Repository:** [discreteIIProject](https://github.com/cstovar/discreteIIProject)
 
 This project implements a **simple chat system in Python** that uses **RSA encryption** to secure messages between a client and a server. It demonstrates foundational concepts in **cryptography** and **network communication**.
 
@@ -130,8 +125,7 @@ This project highlights skills in:
 
 ## 🗺️ CurvasDeNivel – Contour Lines & Point Cloud Generation
 
-**Repository:** CurvasDeNivel  
-**Link:** https://github.com/cstovar/CurvasDeNivel
+**Repository:** [CurvasDeNivel](https://github.com/cstovar/CurvasDeNivel)  
 
 This project focuses on generating **contour lines (curvas de nivel)** and, most importantly, producing a **point cloud** from elevation data that can be **exported and directly inserted into AutoCAD** for further topographic analysis and design.
 
