@@ -86,7 +86,7 @@ These projects were developed as part of an academic course focused on modern An
 - **HelloWorld**  
   Introductory Android app written in Java, demonstrating basic project setup and UI structure.
 
-## 🤖 FacialRecognitionCNN – Facial Recognition with CNN
+## 🤖 FacialRecognitionCNN
 
 **Repository:** [FacialRecognitionCNN](https://github.com/cstovar/FacialRecognitionCNN) 
 
